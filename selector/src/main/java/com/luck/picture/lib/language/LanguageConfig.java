@@ -82,4 +82,24 @@ public class LanguageConfig {
      * 哈萨克斯坦
      */
     public static final int KK = 13;
+
+    /**
+     * 泰语
+     */
+    public static final int TH = 14;
+
+    /**
+     * 印尼语
+     */
+    public static final int ID = 15;
+
+    /**
+     * 马来语
+     */
+    public static final int MS = 16;
+
+    /**
+     * 菲律宾语
+     */
+    public static final int FIL = 17;
 }
